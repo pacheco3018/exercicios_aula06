@@ -1,0 +1,48 @@
+header{
+    border: 1px solid rgb(0, 0, 0);
+    margin: 20px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(1, 1, 1); 
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.card{
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.card img{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    width: 200px;
+    height: 130px;
+    border: 200px;
+}
+
+main{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    padding: 10px;
+}
+
+figcaption{
+    text-align:center;
+}
+
+a{
+    margin-right: 230px;
+    margin-bottom: 20px;
+}
+
